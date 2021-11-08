@@ -760,6 +760,10 @@
     }
 }
 
+.change-theme {
+    margin-right: 15px;
+}
+
 .navbar-main-dark .container-fluid .navbar-inr .action-otr .btn-create {
     margin-right: 16px;
 }
