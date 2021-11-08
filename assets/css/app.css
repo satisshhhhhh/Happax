@@ -18238,7 +18238,8 @@
     width: 100%;
 }
 
-.explore-artwork-dark .container-fluid .categories-main .categories-outr .categories-inr {
+.explore-artwork-dark .container-fluid .categories-main .categories-outr .categories-inr .select-styled {
+    display: none;
 }
 
 .explore-artwork-dark .container-fluid .categories-main .categories-outr .categories-inr select {
