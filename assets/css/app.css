@@ -870,6 +870,10 @@
     color: #ebf2ff;
 }
 
+.hero-main-dark .container-fluid .categories-main .categories-outr .categories-inr .select-styled {
+    display: none;
+}
+
 .hero-main-dark .container-fluid .categories-main .categories-outr .categories-inr .tabs {
     display: flex;
     justify-content: space-between;
